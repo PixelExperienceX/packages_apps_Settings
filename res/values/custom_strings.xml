@@ -113,4 +113,6 @@
     <string name="high_touch_polling_rate_title">High touch polling rate</string>
     <string name="high_touch_polling_rate_summary">Increase touchscreen polling rate</string>
 
+    <!-- Elixir version preference -->
+    <string name="PEX_version">"PixelExperienceX version"</string>
 </resources>
